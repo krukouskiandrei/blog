@@ -1,0 +1,16 @@
+<<!DOCTYPE html>
+<html>
+<head>
+	<title>Firsnt Page</title>
+</head>
+<body>
+<<<<<<< HEAD
+	
+
+	<footer><span>andrei.krukouski</span></footer>
+=======
+<header>AC/DC</header>
+<h1>Headline</h1>
+>>>>>>> iss53
+</body>
+</html>
